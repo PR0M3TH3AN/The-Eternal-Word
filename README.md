@@ -8,6 +8,8 @@ http://eternalword.eth.link/
 
 http://theeternalword.hns.siasky.net/
 
+http://godis.theeternalword.hns.to/
+
 
 Or install on Skynet Homescreen by clicking the button below.
 
