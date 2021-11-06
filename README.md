@@ -6,8 +6,6 @@ http://eternalword.xyz/
 
 http://eternalword.eth.link/
 
-http://theeternalword.hns.to/
-
 http://theeternalword.hns.siasky.net/
 
 
