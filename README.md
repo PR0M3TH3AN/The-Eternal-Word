@@ -1,10 +1,15 @@
 # eternal-word
 The Bible in 21 major languages hosted on Sia Skynet, IPFS and GitHub
 
+
 http://eternalword.xyz/
+
 http://eternalword.eth.link/
+
 http://theeternalword.hns.to/
+
 http://theeternalword.hns.siasky.net/
+
 
 Or install on Skynet Homescreen by clicking the button below.
 
