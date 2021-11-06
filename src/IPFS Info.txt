@@ -1,0 +1,30 @@
+Command: ipfs add C:\Users\"username"\Documents\GitHub\eternal-word -r
+
+----------------------------------------------------------------
+
+Name: The Eternal Word
+
+ENS: http://eternalword.xyz
+
+https://ipfs.io/ipfs/Qmaha49CAncSKbvZPYUwS1pT7LSC6SnWGBhoNY3mUSYy7U
+
+Latest IPFS Hash: Qmaha49CAncSKbvZPYUwS1pT7LSC6SnWGBhoNY3mUSYy7U
+
+----------------------------------------------------------------
+
+To see how many people are hosting run the following command:
+
+ipfs dht findprovs (content hash)
+
+Old Beta Hashed-------------------------------------------------
+
+v1. QmYe9V9nGVbv9PvswifjRJPBhaGoJE1HeS8ZzU41ZuB1DB
+v2. QmaSBFmy2MmPT8EkJJCGNgQmAwP2bqttjgNtNPT6Px6zrm
+v3. QmXyMt9R1AWMfHgWg7erPSHJYGrV6ksabXhv6QQqgTp7hb
+v4. QmVvyb8tWqFgjqArrX8yYofrMfcFpQLMLtrfoeSdekv8g1
+
+Release Versions------------------------------------------------
+
+V1.0   Qme1sKNjpKBnGF97ZzFMBYSJZ2FHMVqcTVPs8DNGn6AzRZ
+V1.0.1 QmdKBbtkJP9GWZfZd1UoLGRAwCAxvJ38TafrxMGAJR9oJ9
+V1.0.2 Qmaha49CAncSKbvZPYUwS1pT7LSC6SnWGBhoNY3mUSYy7U

@@ -1,0 +1,28 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://eternalword.eth.link/",
+  "providedBy": { "name": "Eternal Word", "url": "https://eternalword.xyz/" },
+  "icons": [
+    {
+      "src": "./img/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./img/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Eternal Word",
+  "description": "Decentralized Bible Database",
+  "iconPath": "./img/webclip.png",
+  "short_name": "EternalWord",
+  "start_url": "./index.html",
+  "theme_color": "#64A19D",
+  "skylink": "AQAPDPCSsayMgGt8MRjjbxF2JmzFplI8j-C289S9-y35og"
+}
