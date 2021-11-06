@@ -10,6 +10,8 @@ http://theeternalword.hns.siasky.net/
 
 http://godis.theeternalword.hns.to/
 
+https://theeternalword.on.fleek.co/
+
 
 Or install on Skynet Homescreen by clicking the button below.
 
